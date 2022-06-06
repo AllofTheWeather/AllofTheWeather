@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllofTheWeather
 - 👀 I’m interested in web development, music production software, and data science.
-- 🌱 I’m currently learning javascript for web design.
+- 🌱 I’m currently learning react for web development.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Send me an email at joe7weatherall@gmail.com
 <!---
